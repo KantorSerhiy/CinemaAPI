@@ -55,5 +55,3 @@ P.S.
 if u want correctly using service in docker,change path for MEDIA_ROOT in settings project to 
 "/vol/web/media"
 
-
-# CinemaAPI
