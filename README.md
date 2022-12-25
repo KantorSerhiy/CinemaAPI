@@ -55,3 +55,9 @@ P.S.
 if u want correctly using service in docker,change path for MEDIA_ROOT in settings project to 
 "/vol/web/media"
 
+
+### How does it look
+- Redoc:
+[![2022-12-25-13-39-36.png](https://i.postimg.cc/50T7nDbX/2022-12-25-13-39-36.png)](https://postimg.cc/CBCsKPZ0)
+- Swagger:
+- [![2022-12-25-13-38-45.png](https://i.postimg.cc/02fGNhF7/2022-12-25-13-38-45.png)](https://postimg.cc/6y84jb9Q)
